@@ -1,4 +1,4 @@
-# job-app
+# 招聘管理
 
 ## Project setup
 ```
